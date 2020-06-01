@@ -1,8 +1,3 @@
-/*
- *   Gabriele Sergi
- *   Corso A
- *   532362
- */
 public class InvalidUserCredential extends Exception {
     public InvalidUserCredential(){
         super();

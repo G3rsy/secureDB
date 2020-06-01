@@ -1,9 +1,3 @@
-/*
- *   Gabriele Sergi
- *   Corso A
- *   532362
- */
-
 import java.util.Vector;
 
 public class Data<E> {

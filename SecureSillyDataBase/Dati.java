@@ -1,8 +1,3 @@
-/*
- *   Gabriele Sergi
- *   Corso A
- *   532362
- */
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

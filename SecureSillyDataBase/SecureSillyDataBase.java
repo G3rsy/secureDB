@@ -1,8 +1,3 @@
-/*
- *   Gabriele Sergi
- *   Corso A
- *   532362
- */
 import java.util.*;
 /*
  *   Abstacrt Function: <OWN, DATA> -> {< Owner0, <passw0, Dati0>>, ..., <Owner n-1, <passw n-1, Dati n-1>>}

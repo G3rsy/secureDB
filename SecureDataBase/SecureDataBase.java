@@ -1,8 +1,3 @@
-/*
-*   Gabriele Sergi
-*   Corso A
-*   532362
- */
 import java.security.acl.Owner;
 import java.util.*;
 /*
